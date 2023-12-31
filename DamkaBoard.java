@@ -12,7 +12,7 @@ public class DamkaBoard {
 				if (j == 1 && i%2 == 0){
 				System.out.print(" *");
 				}else{
-					System.out.print("*");
+					System.out.print("* ");
 				}
 			}
 		}
