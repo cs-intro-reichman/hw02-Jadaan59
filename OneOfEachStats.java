@@ -39,7 +39,7 @@ public class OneOfEachStats {
                  else{FamilyWith4++;}
              average += counter;
         	}
-        System.out.println("Average : " + average / T + " children to get at least one of each gender.");
+        System.out.println("Average: " + average / T + " children to get at least one of each gender.");
         System.out.println("Number of families with 2 children: " + FamilyWith2);
         System.out.println("Number of families with 3 children: " + FamilyWith3);
         System.out.println("Number of families with 4 or more children: " + FamilyWith4);
